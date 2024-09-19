@@ -53,3 +53,5 @@ class MainActivity : AppCompatActivity() {
         unregisterReceiver(powerReceiver)
     }
 }
+
+
