@@ -10,10 +10,6 @@ Aplicativo que detecta quando o **cabo de energia é conectado ou desconectado**
 
 Exercício aplicado em sala de aula, usado como prática guiada com os alunos.
 
-## Versão em Java
-
-Esta mesma aplicação também foi desenvolvida em **Java**: [AppDetectChargeDBRJava](https://github.com/fabcurvello/AppDetectChargeDBRJava). Comparar as duas versões lado a lado ajuda a entender as diferenças de sintaxe entre Java e Kotlin no Android.
-
 ## O que o app faz
 
 - Registra um `BroadcastReceiver` para `ACTION_POWER_CONNECTED` e `ACTION_POWER_DISCONNECTED`.
@@ -49,7 +45,6 @@ Outros repositórios de aula com o mesmo tema:
 - [AppBroadcastReceiversJava](https://github.com/fabcurvello/AppBroadcastReceiversJava)
 - [AppDetectBatteryLowDBRJava](https://github.com/fabcurvello/AppDetectBatteryLowDBRJava)
 - [AppDetectBatteryLowDBRKotlin](https://github.com/fabcurvello/AppDetectBatteryLowDBRKotlin)
-- [AppDetectChargeDBRJava](https://github.com/fabcurvello/AppDetectChargeDBRJava)
 - [AppNotifBateryLevelBRDJava](https://github.com/fabcurvello/AppNotifBateryLevelBRDJava)
 - [AppNotifBateryLevelBRDKotlin](https://github.com/fabcurvello/AppNotifBateryLevelBRDKotlin)
 - [AppNotifBootCompletedBREJAVA](https://github.com/fabcurvello/AppNotifBootCompletedBREJAVA)
